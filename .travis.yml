@@ -1,0 +1,17 @@
+language: ruby
+
+rvm:
+  - 2.1
+  - 2.2.3
+
+#gemfile:
+#  - Gemfile.rails40
+#  - Gemfile.rails41
+#  - Gemfile.rails42
+
+#services:
+#  - mysql
+
+sudo: false
+
+#cache: bundler
